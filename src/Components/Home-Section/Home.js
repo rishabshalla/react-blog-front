@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Intro from "./Intro/Intro";
-import TheLatest from "./The Latest/TheLatest";
+//import TheLatest from "./The Latest/TheLatest";
 import LatestArticles from "./Latest Articles/LatestArticles";
 import LatestStories from "./Latest Stories/LatestStories";
 import axios from "axios";
